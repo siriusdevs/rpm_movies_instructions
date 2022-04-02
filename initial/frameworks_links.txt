@@ -1,0 +1,3 @@
+https://hackr.io/blog/python-frameworks
+https://hotframeworks.com/languages/python/
+https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite&l=zijzen-sf&a=2
